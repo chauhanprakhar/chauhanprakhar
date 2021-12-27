@@ -13,7 +13,7 @@
   <strong><a href="https://www.chauhanprakhar.me/">Website</a></strong> |
   <strong><a href="https://twitter.com/prakhar_dart">Twitter</a></strong> |
   <!-- <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> | -->
-  <strong><a href="https://www.linkedin.com/in/prakhar-chauhan-8a8283199/">LinkedIn</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/prakhar-chauhan-8a8283199/">LinkedIn</a></strong> 
   <!-- <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong> -->
 </p>
 
